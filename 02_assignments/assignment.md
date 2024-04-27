@@ -43,7 +43,7 @@ echo "lucky" > questions5
 echo "know" > questions6
 cat question1 question2 question3 question4 question5 question6 > password
 
-password : akingPowder123456789101112131415161718yourlegaciesluckyknow
+password : BakingPowder123456789101112131415161718yourlegaciesluckyknow
 
 ```
 
