@@ -34,16 +34,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 
 **What is the secret password?**
 ```
-mkdir shell_assignment
-echo "BakingPowder" > questions1
-echo "123456789101112131415161718" > questions2
-echo "your" > questions3
-echo "legacies" > questions4
-echo "lucky" > questions5
-echo "know" > questions6
-cat question1 question2 question3 question4 question5 question6 > password
-
-password : BakingPowder123456789101112131415161718yourlegaciesluckyknow
+Password = Paper Rings Season_10  Meets  and  Lucky  the
 
 ```
 
